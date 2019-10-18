@@ -6,17 +6,13 @@ image: assets/images/parte4.jpg
 ---
 
 
-## Listado de proyectos desarrollados por los estudiantes, 2019-1
-
-| Desarrollador                 | Proyecto |
-| -------------                 | -------- |
-
-
 ## Listado de proyectos selectos desarrollados en otros semestres
 
 
 | Desarrollador                 | Proyecto |
 | -------------                 | -------- |
+| **Victor Noriega**     | [Chatbot neuronal (con malas palabras)](https://victornoriega.github.io/chatbot/)
+| **Francisco Tequida**       | [Generando dibujos en forma de sketch](https://francisco-tequida.github.io/proyecto-rnn/)
 | **Francisco E. Córdova** | [Creando música con redes recurrentes](https://franko1307.github.io/2018/11/21/Creando-musica-con-redes-recurrentes.html) |
 | **Cesar Ernesto Salazar**         | [Generando música de piano con RNN-RBM](https://cesern.github.io/Music_RNN_RBM/) |                                                                                
 | **Luis Fernando Sotomayor**       | [Generación de música con LSTM](https://sanlf.github.io/2018/11/30/generacion_musica.html)|
