@@ -44,6 +44,13 @@ Todas las libretas están diseñadas para ejecutarse en *python 3.X* para esto, 
 
 Cada estudiante va a generar un proyecto público en un servidor *git* (*GitHub*, *Gitlab*, BitBucket* ...) donde agregará las libretas que vaya resolviendo y permita evaluar sus avances (y mostrar evidencias del conocimiento adquirido en redes neuronales). Les pido que mientras las libreta esté marcada como **en proceso de modificación** no la agreguen a las libretas a resolver. Muchas de las libretas se encuentran en proceso de modificación.
 
+- [Gerardo Leyva](https://github.com/gerardoleyvaconde)
+- [Pedro Hernández](https://github.com/pedro-hdez/libretas-rn)
+- [Miguel Romero](https://github.com/Miguelrom/Libretas_RN)
+- [Xavier Paredes](https://github.com/jxavierpp/rn-libretas)
+- [Manuel Flores](https://github.com/Manuel-Flores-F)
+
+<!---
 
 - [Lizeth Soto](https://github.com/LizethSoto/Evaluaciones-Continuas-RN)
 - [Francisco Tequida](https://github.com/francisco-tequida?tab=repositories)
@@ -51,7 +58,7 @@ Cada estudiante va a generar un proyecto público en un servidor *git* (*GitHub*
 - [Victor Noriega](https://github.com/victornoriega?tab=repositories)
 - [Ricardo Alvarado](https://github.com/ricardoamata/Libretas-RedesNeuronales-2019)
 
-<!---2018b
+2018b
 
 - [Fransisco Córdova](https://github.com/Franko1307/redes-neuronales-unison)
 
@@ -69,6 +76,7 @@ Cada estudiante va a generar un proyecto público en un servidor *git* (*GitHub*
 
 ## Relación de libretas con participantes en el curso
 
+<!---2018b
 
 | Nombre       | Lineal | Logística | Softmax | B-prop | intro TF | CNN | 
 |--------------|--------|-----------|---------|--------|----------|---- | 
@@ -78,7 +86,7 @@ Cada estudiante va a generar un proyecto público en un servidor *git* (*GitHub*
 | Victor       |   si   |           |         |        |          |     | 
 | Ricardo      |   si   |    si     |   si    |        |          |     | 
 
-<!---2018b
+
 
 | Nombre       | Lineal | Logística | Softmax | B-prop | intro TF | CNN | RNN   | RL    |
 |--------------|--------|-----------|---------|--------|----------|---- | ----  | ----- |
