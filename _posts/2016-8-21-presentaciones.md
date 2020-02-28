@@ -28,6 +28,8 @@ le doy el crédito correspondiente a quien las hizo.
 
 - [Una presentación introductoria de redes
   convolucionales](/presentaciones/conv_nets.pdf)
+  
+- [Otra presentacion introductoria a las redes convolucionales](/presentaciones/cnn_simple.pdf)
 
 - [¿Qué es eso del *transfer learning*?](/presentaciones/transfer_learning.pdf)
 
