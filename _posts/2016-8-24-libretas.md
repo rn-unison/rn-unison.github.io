@@ -24,8 +24,14 @@ Todas las libretas están diseñadas para ejecutarse en *python 3.X* para esto, 
 - Redes hacia adelante **(para desarrollar)**
   [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/b-prop/b_prop.ipynb)
   [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/b-prop.zip?raw=true).
+  
+- PyTorch, como se come, y como hacer reconocimiento de imágenes con CNN en PyTorch. Esta es [una
+  carpeta con varias libretas](https://github.com/rn-unison/rn-jupyter/tree/master/pytorch). Hay que ejecturalas
+  todas tanto en tu propia computadora como en el ACARUS (recuerden que tuvimos un curso rápido con 
+  Yessica y Danny - del ACARUS - para el acceso y ejecución de modelos en las tarjetas GPUs).
+  
 
-
+<!---
 - Red neuronal sencilla en TensorFlow **(para desarrollar)**
   [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/tensorflow_mlp/tensorflow_red_simple.ipynb)
   [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/tensorflow_mlp.zip?raw=true).
@@ -38,7 +44,7 @@ Todas las libretas están diseñadas para ejecutarse en *python 3.X* para esto, 
   [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/redes_recurrentes.ipynb)
   [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/redes_recurrentes.ipynb).
 
-
+--->
 
 ## Evidencias de resolución de libretas por los participantes del curso (solo los que vamos a evaluar):
 
@@ -76,16 +82,19 @@ Cada estudiante va a generar un proyecto público en un servidor *git* (*GitHub*
 
 ## Relación de libretas con participantes en el curso
 
+
+| Nombre       | Lineal | Logística | Softmax | B-prop |  pyTorch + CNN | 
+|--------------|--------|-----------|---------|--------|--------------- | 
+| Gerardo      |        |           |         |        |                | 
+| Pedro        |        |           |         |        |                | 
+| Miguel       |        |           |         |        |                | 
+| Xavier       |        |           |         |        |                | 
+| Manuel       |        |           |         |        |                | 
+| Axel         |        |           |         |        |                |
+| Mario        |        |           |         |        |                |
+| Giovanni     |        |           |         |        |                |
+
 <!---2018b
-
-| Nombre       | Lineal | Logística | Softmax | B-prop | intro TF | CNN | 
-|--------------|--------|-----------|---------|--------|----------|---- | 
-| Liz          |   si   |    si     |   si    | si     |          |     | 
-| Tequida      |   si   |    si     |   si    | si     |          |     | 
-| Jordan       |   si   |    si     |   si    | si     |          |     | 
-| Victor       |   si   |           |         |        |          |     | 
-| Ricardo      |   si   |    si     |   si    |        |          |     | 
-
 
 
 | Nombre       | Lineal | Logística | Softmax | B-prop | intro TF | CNN | RNN   | RL    |
