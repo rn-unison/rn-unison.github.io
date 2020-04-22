@@ -93,6 +93,8 @@ Cada estudiante va a generar un proyecto público en un servidor *git* (*GitHub*
 | Axel         |        |           |         |        |                |
 | Mario        |        |           |         |        |                |
 | Giovanni     |        |           |         |        |                |
+| Celeste      |        |           |         |        |                |
+| Olmos        |        |           |         |        |                |
 
 <!---2018b
 
